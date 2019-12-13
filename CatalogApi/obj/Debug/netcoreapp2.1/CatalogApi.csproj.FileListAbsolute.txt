@@ -1,0 +1,14 @@
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.deps.json
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.runtimeconfig.json
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.runtimeconfig.dev.json
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.dll
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.pdb
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.csprojAssemblyReference.cache
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.csproj.CoreCompileInputs.cache
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorAssemblyInfo.cache
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorAssemblyInfo.cs
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.AssemblyInfoInputs.cache
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.AssemblyInfo.cs
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorTargetAssemblyInfo.cache
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.dll
+C:\SGC\ocelot\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.pdb

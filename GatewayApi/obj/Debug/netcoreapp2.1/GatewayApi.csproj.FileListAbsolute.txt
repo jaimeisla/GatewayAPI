@@ -1,0 +1,6 @@
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.csprojAssemblyReference.cache
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.csproj.CoreCompileInputs.cache
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.RazorAssemblyInfo.cache
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.RazorAssemblyInfo.cs
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.AssemblyInfoInputs.cache
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.AssemblyInfo.cs

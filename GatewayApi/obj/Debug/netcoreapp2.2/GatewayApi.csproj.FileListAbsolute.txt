@@ -1,0 +1,14 @@
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.csprojAssemblyReference.cache
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.csproj.CoreCompileInputs.cache
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.RazorAssemblyInfo.cache
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.RazorAssemblyInfo.cs
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.AssemblyInfoInputs.cache
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.AssemblyInfo.cs
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.deps.json
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.runtimeconfig.json
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.runtimeconfig.dev.json
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.dll
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.pdb
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.RazorTargetAssemblyInfo.cache
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.dll
+C:\SGC\ocelot\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.pdb

@@ -1,0 +1,14 @@
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\bin\Debug\netcoreapp2.1\OrdersApi.deps.json
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\bin\Debug\netcoreapp2.1\OrdersApi.runtimeconfig.json
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\bin\Debug\netcoreapp2.1\OrdersApi.runtimeconfig.dev.json
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\bin\Debug\netcoreapp2.1\OrdersApi.dll
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\bin\Debug\netcoreapp2.1\OrdersApi.pdb
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.csprojAssemblyReference.cache
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.csproj.CoreCompileInputs.cache
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.RazorAssemblyInfo.cache
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.RazorAssemblyInfo.cs
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.AssemblyInfoInputs.cache
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.AssemblyInfo.cs
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.RazorTargetAssemblyInfo.cache
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.dll
+C:\SGC\ocelot\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.pdb
